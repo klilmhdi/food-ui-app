@@ -1,16 +1,21 @@
-# food_ui_design
+## Food App
 
-A new Flutter project.
+This app for showcase my ability to build a food ui application 
+<img src="food_ui_1.png">
+## What this app contain:
+- Home Model (Cofee menu)
+- Nice Card Screen
+- Home Page
+- Google fonts (package)
+- Google maps flutter (package)
+- Geolocator (package)
+* I didn't use any state management here "Only UI"
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to use this app
+- You can install application in your device via this repo
+```bash
+git clone https://github.com/klilmhdi/food-ui-app.git
+cd food_ui_دapp
+flutter pub get
+flutter run
+```

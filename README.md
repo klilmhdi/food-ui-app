@@ -3,7 +3,7 @@
 This app for showcase my ability to build a food ui application 
 <img src="food_ui_1.png">
 ## What this app contain:
-- Home Model (Cofee menu)
+- Home Model
 - Nice Card Screen
 - Home Page
 - Google fonts (package)
